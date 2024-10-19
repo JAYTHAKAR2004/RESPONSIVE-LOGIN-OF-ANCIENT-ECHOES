@@ -26,3 +26,6 @@ CSS3: For styling the page and making it visually appealing, with a focus on res
 ![CSS Badge](https://img.shields.io/badge/CSS-blue)
 
 A responsive login page for the Ancient Echoes platform.
+
+![Background Image](./Responsive%20login%20form/Images/bg.svg)
+
