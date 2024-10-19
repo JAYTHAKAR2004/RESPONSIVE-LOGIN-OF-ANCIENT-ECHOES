@@ -1,6 +1,7 @@
 Ancient Echoes Website - Login Page
 
-![Ancient Echoes Logo](./assets/images/logo.jpeg[J)
+![Ancient Echoes Logo](./Responsive%20login%20form/Images/logo.jpeg)
+
 
 
 
